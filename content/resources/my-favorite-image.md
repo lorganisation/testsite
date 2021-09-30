@@ -1,7 +1,7 @@
 ---
 description: ''
-file: null
-file_type: ''
+file: /media/courses/test-site/9897903da72a43b19155d7dbd8bb5ab5_1218941d391b4f15acbbd990f01dcd9d_cyber-woman-corn-260nw-39886900.webp
+file_type: image/webp
 image_metadata:
   caption: ''
   credit: ''
