@@ -1,7 +1,7 @@
 ---
 description: ''
-file: null
-file_type: ''
+file: /media/courses/test-site/3546f504d52e4a2da2ddbf8d02776ae0_IMG_20210523_193356491_HDR.jpg
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
