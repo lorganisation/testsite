@@ -1,7 +1,7 @@
 ---
 description: ''
-file: null
-file_type: ''
+file: /media/courses/test-site/2bb44ddbeb624f1b87e906dff46375bc_cat.png
+file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
