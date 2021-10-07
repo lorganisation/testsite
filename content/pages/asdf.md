@@ -13,8 +13,6 @@ asdfasdf
 
 and afterwards  
 
- 
-
 |  asdf | Income | Revenue |
 | --- | --- | --- |
 | Walker 3 | $104.000 | 15% |
