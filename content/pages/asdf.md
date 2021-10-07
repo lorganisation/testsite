@@ -15,4 +15,4 @@ and afterwards
 
  
 
-|   | Income | Revenue | | --- | --- | --- | | Walker 3 | $104.000 | 15% | | Stroller | $12.000 | 10% | | Runner | $97.500 | 15% |
+|  asdf | Income | Revenue | | --- | --- | --- | | Walker 3 | $104.000 | 15% | | Stroller | $12.000 | 10% | | Runner | $97.500 | 15% |
