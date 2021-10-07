@@ -7,7 +7,9 @@ uid: b7d7ce4e-200c-4137-9b9b-aea82de7227d
 
 asdfasdf
 
-<table><tbody><tr><td>name</td><td>phone #</td></tr><tr><td>joe</td><td>111-111-1111</td></tr></tbody></table>
+| name | phone # |
+| --- | --- |
+| joe | 111-111-1111 |
 
 and afterwards
 
